@@ -39,7 +39,7 @@ This project is licensed under [MIT License](LICENSE). You are free to use, modi
 
 ## 🌟 About Me
 
-Hi there! I'm **Lawrence OSHIOZOKHAI AGABI**, also known as **ZokhaiImhosei Data**. I'm are future Data Engineering/ Analyst on a mission to learn and I hope I will be able to accomplish what I set my mind to 😎
+Hi there! I'm **Lawrence OSHIOZOKHAI AGABI**, also known as **ZokhaiImhosei Data**. I'm a future Data Engineer and Analyst on a mission to learn and I hope I will be able to accomplish what I set my mind to 😎
 
 
 
