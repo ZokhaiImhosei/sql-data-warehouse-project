@@ -1,6 +1,6 @@
-#**Data Dictionary for Gold Layer**
+# **Data Dictionary for Gold Layer**
 
-##**Overview**
+## **Overview**  
 The Gold Layer is the business-level data representation, structured to support analytical and reporting use cases.It consists of **dimension
 tables** and **fact tables** for specific business metrics.
 
@@ -37,7 +37,7 @@ tables** and **fact tables** for specific business metrics.
      |product_line |NVARCHAR(50) |The specific product line or series to which the product belongs (e.g. Road, Mountain).|
      |start_date |DATE |The date when the product becaame available for sale or use ,stored in.|
 
-   3. **gold.fact_sales**
+ 3. **gold.fact_sales**
    - **Purpose**: Stores transactional sales data for analytical purposes.
    - **Columns**:
      |**Column Name**|**Data Type**|     **Description**  |
